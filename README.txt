@@ -2,7 +2,7 @@ This program is implementing a slot machine game that uses the Shape inheritance
 
 The user plays the game according to the instructions given by the program.
 
-The purpose of this program is to practice the following in C++:
+The purpose of this program is to implement the following in C++:
 
 1) Fundamental object-oriented programming concepts (inheritance and polymorphism)
 2) Overriding and virtual functions
